@@ -1,0 +1,5 @@
+Security and Ethics Notes:
+- Never commit secrets such as passwords, API keys, or tokens to GitHub repositories.
+- Use a .gitignore file and GitHub Secrets to protect sensitive information.
+- Follow ethical practices: do not misuse AI tools for harmful tasks and avoid sharing confidential data.
+- Always sanitize data before pushing and ensure all shared content is safe and appropriate.
